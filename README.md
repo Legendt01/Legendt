@@ -1,1 +1,1 @@
-# Legendt
+Django project
